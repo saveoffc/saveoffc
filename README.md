@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/MvovQGsMBY9H2/giphy.gif" width="100"/>
 </div>
 
+---
 
+### 🥳 About Me :
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+Hello! I love designing and coding I am trying to be a software student :)
+
+---
+### :hammer_and_wrench: Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,photoshop,blender,cpp,discord,github,linux,vscode,visualstudio,lua,arduino,linkedin,robloxstudio)](https://skillicons.dev)
